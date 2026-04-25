@@ -1,0 +1,632 @@
+@Toan
+000001. Tinh 3 + 5 = ?
+A. 7
+B. 8
+C. 9
+D. 10
+b
+
+000002. Tinh 7 - 4 = ?
+A. 2
+B. 3
+C. 4
+D. 5
+b
+
+000003. Tinh 6 x 2 = ?
+A. 10
+B. 12
+C. 14
+D. 8
+b
+
+000004. Tinh 15 : 3 = ?
+A. 4
+B. 5
+C. 6
+D. 7
+b
+
+000005. Tinh 9 + 7 = ?
+A. 15
+B. 16
+C. 17
+D. 18
+b
+
+000006. Tinh 12 - 5 = ?
+A. 6
+B. 7
+C. 8
+D. 9
+b
+
+000007. Tinh 4 x 5 = ?
+A. 18
+B. 20
+C. 22
+D. 16
+b
+
+000008. Tinh 18 : 2 = ?
+A. 7
+B. 9
+C. 10
+D. 8
+b
+
+000009. Tinh 10 + 6 = ?
+A. 15
+B. 16
+C. 17
+D. 14
+b
+
+000010. Tinh 14 - 8 = ?
+A. 5
+B. 6
+C. 7
+D. 8
+b
+
+000011. Tinh 3 x 7 = ?
+A. 20
+B. 21
+C. 22
+D. 19
+b
+
+000012. Tinh 24 : 4 = ?
+A. 5
+B. 6
+C. 7
+D. 8
+b
+
+000013. Tinh 11 + 9 = ?
+A. 19
+B. 20
+C. 21
+D. 18
+b
+
+000014. Tinh 16 - 7 = ?
+A. 8
+B. 9
+C. 10
+D. 11
+b
+
+000015. Tinh 5 x 6 = ?
+A. 28
+B. 30
+C. 32
+D. 26
+b
+
+000016. Tinh 27 : 3 = ?
+A. 8
+B. 9
+C. 10
+D. 7
+b
+
+000017. Tinh 13 + 8 = ?
+A. 20
+B. 21
+C. 22
+D. 19
+b
+
+000018. Tinh 19 - 6 = ?
+A. 12
+B. 13
+C. 14
+D. 15
+b
+
+000019. Tinh 7 x 4 = ?
+A. 26
+B. 28
+C. 30
+D. 24
+b
+
+000020. Tinh 32 : 4 = ?
+A. 7
+B. 8
+C. 9
+D. 6
+b
+
+000021. Tinh 15 + 7 = ?
+A. 21
+B. 22
+C. 23
+D. 20
+b
+
+000022. Tinh 20 - 9 = ?
+A. 10
+B. 11
+C. 12
+D. 13
+b
+
+000023. Tinh 8 x 5 = ?
+A. 38
+B. 40
+C. 42
+D. 36
+b
+
+000024. Tinh 36 : 6 = ?
+A. 5
+B. 6
+C. 7
+D. 8
+b
+
+000025. Tinh 17 + 6 = ?
+A. 22
+B. 23
+C. 24
+D. 21
+b
+
+000026. Tinh 25 - 7 = ?
+A. 17
+B. 18
+C. 19
+D. 16
+b
+
+000027. Tinh 9 x 4 = ?
+A. 34
+B. 36
+C. 38
+D. 32
+b
+
+000028. Tinh 40 : 5 = ?
+A. 7
+B. 8
+C. 9
+D. 6
+b
+
+000029. Tinh 14 + 9 = ?
+A. 22
+B. 23
+C. 24
+D. 21
+b
+
+000030. Tinh 21 - 8 = ?
+A. 12
+B. 13
+C. 14
+D. 15
+b
+
+@Ly
+000031. Van toc anh sang gan bang bao nhieu (m/s)?
+A. 2.8x10^8
+B. 3.0x10^8
+C. 3.6x10^8
+D. 1.5x10^8
+b
+
+000032. Don vi do luc la gi?
+A. Joule
+B. Newton
+C. Watt
+D. Pascal
+b
+
+000033. Gia toc trong truong g ≈ ?
+A. 1.6 m/s^2
+B. 9.8 m/s^2
+C. 3.7 m/s^2
+D. 0 m/s^2
+b
+
+000034. Don vi tan so la gi?
+A. m/s
+B. Hz
+C. N
+D. J
+b
+
+000035. Anh sang truyen nhanh nhat trong moi truong nao?
+A. Nuoc
+B. Chan khong
+C. Khong khi
+D. Thuy tinh
+b
+
+000036. Dinh luat phan xa: goc toi bang goc ...?
+A. tan xa
+B. phan xa
+C. phan ky
+D. khong
+b
+
+000037. Don vi cuong do dong dien la gi?
+A. Volt
+B. Ampere
+C. Ohm
+D. Tesla
+b
+
+000038. Don vi dien tro la gi?
+A. Watt
+B. Ohm
+C. Lux
+D. Newton
+b
+
+000039. Don vi cong suat la gi?
+A. Volt
+B. Watt
+C. Ampere
+D. Henry
+b
+
+000040. Am thanh khong truyen duoc trong moi truong nao?
+A. Chat ran
+B. Chan khong
+C. Chat long
+D. Chat khi
+b
+
+000041. Van toc anh sang gan bang bao nhieu (m/s)?
+A. 3.6x10^8
+B. 3.0x10^8
+C. 1.5x10^8
+D. 2.8x10^8
+b
+
+000042. Don vi do luc la gi?
+A. Pascal
+B. Newton
+C. Joule
+D. Watt
+b
+
+000043. Gia toc trong truong g ≈ ?
+A. 3.7 m/s^2
+B. 9.8 m/s^2
+C. 1.6 m/s^2
+D. 0 m/s^2
+b
+
+000044. Don vi tan so la gi?
+A. N
+B. Hz
+C. J
+D. m/s
+b
+
+000045. Anh sang truyen nhanh nhat trong moi truong nao?
+A. Chan khong
+B. Khong khi
+C. Nuoc
+D. Thuy tinh
+a
+
+000046. Dinh luat phan xa: goc toi bang goc ...?
+A. phan xa
+B. tan xa
+C. khong
+D. phan ky
+a
+
+000047. Don vi cuong do dong dien la gi?
+A. Tesla
+B. Ampere
+C. Ohm
+D. Volt
+b
+
+000048. Don vi dien tro la gi?
+A. Ohm
+B. Lux
+C. Newton
+D. Watt
+a
+
+000049. Don vi cong suat la gi?
+A. Ampere
+B. Watt
+C. Henry
+D. Volt
+b
+
+000050. Am thanh khong truyen duoc trong moi truong nao?
+A. Chat khi
+B. Chan khong
+C. Chat ran
+D. Chat long
+b
+
+000051. Van toc anh sang gan bang bao nhieu (m/s)?
+A. 1.5x10^8
+B. 3.0x10^8
+C. 2.8x10^8
+D. 3.6x10^8
+b
+
+000052. Don vi do luc la gi?
+A. Newton
+B. Joule
+C. Watt
+D. Pascal
+a
+
+000053. Gia toc trong truong g ≈ ?
+A. 9.8 m/s^2
+B. 0 m/s^2
+C. 1.6 m/s^2
+D. 3.7 m/s^2
+a
+
+000054. Don vi tan so la gi?
+A. J
+B. Hz
+C. m/s
+D. N
+b
+
+000055. Anh sang truyen nhanh nhat trong moi truong nao?
+A. Thuy tinh
+B. Chan khong
+C. Nuoc
+D. Khong khi
+b
+
+000056. Dinh luat phan xa: goc toi bang goc ...?
+A. tan xa
+B. phan xa
+C. phan ky
+D. khong
+b
+
+000057. Don vi cuong do dong dien la gi?
+A. Volt
+B. Ampere
+C. Ohm
+D. Tesla
+b
+
+000058. Don vi dien tro la gi?
+A. Lux
+B. Ohm
+C. Watt
+D. Newton
+b
+
+000059. Don vi cong suat la gi?
+A. Henry
+B. Watt
+C. Volt
+D. Ampere
+b
+
+000060. Am thanh khong truyen duoc trong moi truong nao?
+A. Chat long
+B. Chan khong
+C. Chat ran
+D. Chat khi
+b
+
+@Tin_Hoc
+000061. Don vi luu tru dung luong may tinh la gi?
+A. Byte
+B. Watt
+C. Volt
+D. Hertz
+a
+
+000062. Thanh phan chinh cua CPU la gi?
+A. RAM
+B. ALU
+C. ROM
+D. USB
+b
+
+000063. He dieu hanh pho bien tren may tinh la gi?
+A. Microsoft Windows
+B. Photoshop
+C. Excel
+D. Word
+a
+
+000064. Ngon ngu lap trinh nao duoi day la ngon ngu cap cao?
+A. Assembly
+B. Python
+C. Machine Code
+D. Binary
+b
+
+000065. Thuat toan la gi?
+A. Phan mem he thong
+B. Tap hop cac lenh giai quyet van de
+C. Phan cung may tinh
+D. Man hinh
+b
+
+000066. Bo nho RAM dung de lam gi?
+A. Luu tru du lieu vinh vien
+B. Xu ly hinh anh
+C. Luu tru tam thoi
+D. Ket noi internet
+c
+
+000067. Phan mem nao duoi day la trinh duyet web?
+A. Notepad
+B. Google Chrome
+C. Microsoft Word
+D. VLC Media Player
+b
+
+000068. Don vi nho nho nhat trong may tinh la gi?
+A. Byte
+B. Bit
+C. Kilobyte
+D. Megabyte
+b
+
+000069. Cac loai du lieu co ban trong lap trinh gom?
+A. So nguyen, so thuc, chuoi
+B. Man hinh, ban phim, chuot
+C. CPU, RAM, ROM
+D. USB, HDD, SSD
+a
+
+000070. Phan cung may tinh gom nhung gi?
+A. He dieu hanh, phan mem ung dung
+B. CPU, RAM, o cung
+C. Word, Excel, PowerPoint
+D. Trinh duyet, email
+b
+
+000071. Ngon ngu lap trinh C++ thuoc loai nao?
+A. Cap cao
+B. Cap thap
+C. Ma may
+D. Thiet ke
+a
+
+000072. He nhi phan su dung cac so nao?
+A. 0 va 1
+B. 1 va 2
+C. 0 den 9
+D. 1 den 9
+a
+
+000073. Bo nho ROM dung de lam gi?
+A. Luu tru tam thoi
+B. Xu ly du lieu
+C. Luu tru du lieu vinh vien
+D. Ket noi mang
+c
+
+000074. Phan mem nao duoi day la he dieu hanh?
+A. Linux
+B. Photoshop
+C. Chrome
+D. Notepad
+a
+
+000075. Thiet bi nao duoi day la thiet bi nhap lieu?
+A. Man hinh
+B. Ban phim
+C. May in
+D. Loa
+b
+
+000076. Mang may tinh la gi?
+A. Tap hop cac may tinh ket noi voi nhau
+B. Phan mem quan ly du lieu
+C. Thiet bi luu tru
+D. Chuong trinh lap trinh
+a
+
+000077. Giao thuc ket noi internet la gi?
+A. USB
+B. TCP/IP
+C. RAM
+D. HDD
+b
+
+000078. Phan mem nao dung de soan thao van ban?
+A. Microsoft Word
+B. Windows Media Player
+C. Firefox
+D. Paint
+a
+
+000079. Don vi nao lon hon?
+A. Kilobyte
+B. Megabyte
+C. Byte
+D. Bit
+b
+
+000080. Cau lenh dieu kien trong lap trinh la gi?
+A. Vong lap
+B. If-else
+C. Ham
+D. Bien
+b
+
+000081. Thiet bi nao la thiet bi xuat lieu?
+A. Ban phim
+B. Man hinh
+C. Chuot
+D. Webcam
+b
+
+000082. He dieu hanh macOS thuoc cong ty nao?
+A. Microsoft
+B. Apple
+C. Google
+D. IBM
+b
+
+000083. Ngon ngu lap trinh nao duoc dung pho bien cho web?
+A. JavaScript
+B. Assembly
+C. Pascal
+D. Fortran
+a
+
+000084. Bo nho cache dung de lam gi?
+A. Luu tru vinh vien
+B. Tang toc do xu ly
+C. Ket noi mang
+D. Quan ly he dieu hanh
+b
+
+000085. Phan mem nao duoi day la phan mem ma nguon mo?
+A. Microsoft Office
+B. Linux
+C. Adobe Photoshop
+D. Windows
+b
+
+000086. Thiet bi nao dung de ket noi mang?
+A. Router
+B. CPU
+C. RAM
+D. SSD
+a
+
+000087. Cau lenh vong lap trong lap trinh la gi?
+A. If-else
+B. For
+C. Bien
+D. Ham
+b
+
+000088. Don vi nao nho nhat trong luu tru?
+A. Bit
+B. Byte
+C. Kilobyte
+D. Megabyte
+a
+
+000089. Phan mem nao dung de quan ly co so du lieu?
+A. MySQL
+B. Notepad
+C. Paint
+D. Chrome
+a
+
+000090. Internet la gi?
+A. Mang toan cau ket noi may tinh
+B. Phan mem lap trinh
+C. Thiet bi luu tru
+D. He dieu hanh
+a

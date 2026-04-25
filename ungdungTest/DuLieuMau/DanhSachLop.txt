@@ -1,0 +1,10 @@
+Toan       DKT1 DKT2 DKT3  
+Ly         DKL1 DKL2  
+Hoa        DKH1 DKH2 DKH3  
+Tin_Hoc    DKTin1 DKTin2  
+Sinh       DKS1 DKS2  
+Su         DKSU1  
+Dia        DKD1 DKD2  
+Anh_Van    DKA1 DKA2  
+GDCD       DKGD1  
+Cong_Nghe  DKC1 DKC2 DKC3  

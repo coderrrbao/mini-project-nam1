@@ -1,0 +1,13 @@
+MGG001 Giam_10_Laptop Laptop Tat_Ca 10% 01/08/2025 10/09/2025
+MGG002 Giam_20_Samsung Dien_thoai Samsung 20% 05/08/2025 12/09/2025
+MGG003 Giam_15_Tai_nghe Tai_nghe Tat_Ca 15% 10/08/2025 15/09/2025
+MGG004 Giam_5_Ban_phim Ban_phim Razer 5% 15/08/2025 19/09/2025
+MGG005 Giam_10_Chuot Chuot Logitech 10000 20/08/2025 20/10/2025
+MGG006 Giam_30_Apple Laptop Apple 30% 25/08/2025 25/10/2025
+MGG007 Giam_30_TatCa Tat_Ca Tat_Ca 30% Vinh_Vien Vinh_Vien
+MGGDONG1 Giam_Hang_Dong Tat_Ca Tat_Ca 40% Vinh_Vien Vinh_Vien
+MGGBAC1 Giam_Hang_Bac Tat_Ca Tat_Ca 50% Vinh_Vien Vinh_Vien
+MGGVANG1 Giam_Hang_Vang Tat_Ca Tat_Ca 60% Vinh_Vien Vinh_Vien
+MGGVANG2 Bao LapTop Tat_Ca 100000 20/10/2025 20/12/2025
+MGGDONG2 ma_thu_2 Tat_Ca Tat_Ca 10000 27/10/2025 27/11/2025
+MGGVANG3 them_ma_cho_Vang Tat_Ca Tat_Ca 25% 20/10/2025 20/11/2025
